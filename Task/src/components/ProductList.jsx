@@ -49,7 +49,7 @@ const ProductList = () => {
 
   return (
     <div className="product-container">
-      <h1 className="title">Product Listing</h1>
+      <h1 className="title">Fake Shopppp</h1>
 
       {error && <div className="error">{error}</div>}
       {loading ? (
